@@ -162,3 +162,5 @@ Strategy2: Sentiment adaptive trade direction-
 
   ### Conclusion
        The analysis shows that market sentiment plays a significant role in shaping trader behavior and profitablity.
+
+---
