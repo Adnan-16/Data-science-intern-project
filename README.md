@@ -20,8 +20,7 @@ Insights from this analysis can help design **better trading strategies and risk
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/trader-sentiment-analysis.git
-cd trader-sentiment-analysis
+https://github.com/Adnan-16/Data-science-intern-project.git
 ```
 
 ---
